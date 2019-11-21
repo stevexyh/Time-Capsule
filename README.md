@@ -6,5 +6,8 @@
 > A GitHub Time Capsule created on 2019-11-21  
 > Xi'an, Shaanxi Province, China, Asia
 ---
+`2019-11-21`  
 听说GitHub要在北极存放时间胶囊？
 赶紧制造点垃圾hhhh
+
+---
